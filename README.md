@@ -200,6 +200,11 @@ These hats were made by [Stack Exchange](https://stackexchange.com), and the lic
 [![180°](hats/secret/180.png)](hats/secret/180.svg)
 [![180° - Outline](hats/secret/180-outline.png)](hats/secret/180-outline.svg)
 
+### Like Clockwork
+
+[![Like Clockwork](hats/secret/like-clockwork.png)](hats/secret/like-clockwork.svg)
+[![Like Clockwork - Outline](hats/secret/like-clockwork-outline.png)](hats/secret/like-clockwork-outline.svg)
+
 ### TheyLive
 
 [![TheyLive](hats/secret/they-live.png)](hats/secret/they-live.svg)
