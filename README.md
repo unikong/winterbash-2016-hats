@@ -155,49 +155,67 @@ These hats were made by [Stack Exchange](https://stackexchange.com), and the lic
 
 ### Where in the World?
 
+#### Where in the World? - Sun
+
 [![Where in the World? - Sun](hats/secret/where-in-the-world-sun.png)](hats/secret/where-in-the-world-sun.svg)
+[![Where in the World? - Sun - Outline](hats/secret/where-in-the-world-sun-outline.png)](hats/secret/where-in-the-world-sun-outline.svg)
+
+#### Where in the World? - Moon
+
 [![Where in the World? - Moon](hats/secret/where-in-the-world-moon.png)](hats/secret/where-in-the-world-moon.svg)
+[![Where in the World? - Moon - Outline](hats/secret/where-in-the-world-moon-outline.png)](hats/secret/where-in-the-world-moon-outline.svg)
 
 ### Mild Mannered
 
 [![Mild Mannered](hats/secret/mild-mannered.png)](hats/secret/mild-mannered.svg)
+[![Mild Mannered - Outline](hats/secret/mild-mannered-outline.png)](hats/secret/mild-mannered-outline.png)
 
 ### Blue in the Face
 
 [![Blue in the Face](hats/secret/blue-in-the-face.png)](hats/secret/blue-in-the-face.svg)
+[![Blue in the Face - Outline](hats/secret/blue-in-the-face-outline.png)](hats/secret/blue-in-the-face-outline.svg)
 
 ### 6
 
 [![6](hats/secret/6.png)](hats/secret/6.svg)
+[![6 - Outline](hats/secret/6-outline.png)](hats/secret/6-outline.svg)
 
 ### Don't Wanna Taco 'Bout it
 
 [![Don't Wanna Taco 'Bout it](hats/secret/dont-wanna-taco-bout-it.png)](hats/secret/dont-wanna-taco-bout-it.svg)
+[![Don't Wanna Taco 'Bout it - Outline](hats/secret/dont-wanna-taco-bout-it-outline.png)](hats/secret/dont-wanna-taco-bout-it-outline.svg)
 
 ### Elementary
 
 [![Elementary](hats/secret/elementary.png)](hats/secret/elementary.svg)
+[![Elementary - Outline](hats/secret/elementary-outline.png)](hats/secret/elementary-outline.svg)
 
 ### This Is Fine
 
 [![This Is Fine](hats/secret/this-is-fine.png)](hats/secret/this-is-fine.svg)
+[![This Is Fine - Outline](hats/secret/this-is-fine-outline.png)](hats/secret/this-is-fine-outline.svg)
 
 ### 180°
 
 [![180°](hats/secret/180.png)](hats/secret/180.svg)
+[![180° - Outline](hats/secret/180-outline.png)](hats/secret/180-outline.svg)
 
 ### TheyLive
 
 [![TheyLive](hats/secret/they-live.png)](hats/secret/they-live.svg)
+[![TheyLive - Outline](hats/secret/they-live-outline.png)](hats/secret/they-live-outline.svg)
 
 ### 8,243,721
 
 [![8,243,721](hats/secret/8243721.png)](hats/secret/8243721.svg)
+[![8,243,721 - Outline](hats/secret/8243721-outline.png)](hats/secret/8243721-outline.svg)
 
 ### Trendsetter
 
 [![Trendsetter](hats/secret/trendsetter.png)](hats/secret/trendsetter.svg)
+[![Trendsetter - Outline](hats/secret/trendsetter-outline.png)](hats/secret/trendsetter-outline.svg)
 
 ### The Hatter
 
 [![The Hatter](hats/secret/the-hatter.png)](hats/secret/the-hatter.svg)
+[![The Hatter - Outline](hats/secret/the-hatter-outline.png)](hats/secret/the-hatter-outline.svg)
